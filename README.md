@@ -1,18 +1,18 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif)](htpps://parulmaurya.io)
 
 <h1 align="center">Hi 👋, I'm Parul Maurya</h1>
-<h3 align="center">A passionate frontend developer from India and I'm currently learning UI/UX Designing.</h3>
+<h3 align="center">A passionate Designer from India and I'm currently learning graphic  Designing.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="parul-maurya" /> </p>
 
-- 🔭 I’m currently working on **UI/UX Designing**
+- 🔭 I’m currently working on **Graphic Designing**
 
-- 🌱 I’m currently learning **UI/UX Designing and frontend development**
+- 🌱 I’m currently learning **Graphic Designing **
 
-- 💬 Ask me about **Figma , UI/UX Designing**
+- 💬 Ask me about **Adobe photoshop , Illustrator , InDesign , Figma, Canva**
 
-- 📫 How to reach me **parulcurly@gmail.com**
+- 📫 How to reach me **t100ravm@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
